@@ -1,0 +1,9 @@
+Feature,Coef,Points,Label
+gram_neg,4.743004189892327,5,Gram-negative organism
+age_75plus,0.12485893704474732,2,Age ≥75 years
+age_60plus,0.05532431870910348,1,Age 60–74 years
+male,-0.14591141226633103,-3,Male gender
+era_mid,-0.18521341803784755,-3,Isolation 2007–2011
+ward_Clinical,-0.35916063836924894,-3,Clinical ward
+ward_ICU,-0.36917153300785516,-3,ICU admission
+era_recent,-0.6368800374317946,-3,Isolation 2012–2017

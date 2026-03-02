@@ -1,0 +1,15 @@
+Variable,Category,n,MDR_pct,OR,CI_lo,CI_hi,p
+Ward,ICU,646,87.5,0.9,0.68,1.2,0.5266
+Ward,Clinical,1234,88.3,1.03,0.78,1.37,0.874
+Ward,Outpatient,120,90.8,1.35,0.71,2.54,0.4375
+Age group,Paediatric (<18),3,100.0,,,,1.0
+Age group,Young adult (18–40),48,85.4,,,,0.705
+Age group,Middle-aged (40–60),382,86.6,,,,0.3389
+Age group,Older adult (60–75),653,87.4,,,,0.5111
+Age group,Elderly (75+),904,89.4,,,,0.1566
+Gram stain,Gram-negative,616,100.0,,,,0.0
+Gram stain,Gram-positive,920,83.2,0.4,0.3,0.53,0.0
+Gram stain,Other/Unknown,464,82.5,0.53,0.4,0.71,0.0
+Era,Early (2002–06),699,90.1,,,,0.0591
+Era,Mid (2007–11),569,89.8,,,,0.1843
+Era,Recent (2012–17),732,85.1,,,,0.0015

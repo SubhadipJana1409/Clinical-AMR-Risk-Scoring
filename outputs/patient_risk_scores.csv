@@ -1,0 +1,2001 @@
+age,gender,ward,mo,gram,age_group,era,risk_score,risk_tier,MDR,n_resistant_classes
+65,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,6
+65,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,6
+45,F,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+45,F,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+45,F,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,5
+45,F,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,5
+78,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+78,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+45,F,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+79,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+67,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+67,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+71,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+71,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+75,F,Clinical,B_CTRBC_FRND,Other/Unknown,Older adult (60–75),Early (2002–06),9,High,1,5
+50,M,ICU,B_PROTS_MRBL,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,6
+50,M,ICU,B_PROTS_MRBL,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,6
+45,F,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,5
+45,F,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,5
+76,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,7
+50,M,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+45,F,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,7
+45,F,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,7
+45,F,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,7
+45,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,6
+45,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,0,2
+82,M,Outpatient,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+69,M,Clinical,B_ENTRC_FACM,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,6
+64,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+0,M,Clinical,B_STPHY_CONS,Gram-positive,,Early (2002–06),3,Low,1,4
+69,F,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+69,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+85,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+85,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+69,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,5
+69,M,Clinical,B_PSDMN_AERG,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,8
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,6
+46,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,4
+46,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,4
+67,M,Clinical,B_STRPT_SNGN,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+75,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),9,High,1,3
+75,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),9,High,1,3
+75,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),9,High,1,3
+75,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),9,High,1,3
+78,M,ICU,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,6
+55,M,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+72,M,Clinical,F_CANDD_GLBR,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,0,0
+73,M,Outpatient,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,3
+69,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,7
+69,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,7
+79,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+46,F,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,0,2
+83,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+83,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+86,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+86,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+54,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+65,F,ICU,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,3
+65,F,ICU,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,3
+47,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+47,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+50,M,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,8
+50,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+78,M,ICU,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+20,F,Clinical,B_ESCHR_COLI,Gram-negative,Young adult (18–40),Early (2002–06),11,Critical,1,4
+20,F,Clinical,B_ESCHR_COLI,Gram-negative,Young adult (18–40),Early (2002–06),11,Critical,1,4
+20,F,Clinical,B_ESCHR_COLI,Gram-negative,Young adult (18–40),Early (2002–06),11,Critical,1,4
+76,M,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,0,2
+30,M,ICU,B_CRYNB,Other/Unknown,Young adult (18–40),Early (2002–06),3,Low,1,3
+53,F,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+75,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),14,Critical,1,4
+75,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),14,Critical,1,4
+82,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,6
+82,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,6
+84,M,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+67,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,5
+78,M,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,5
+82,F,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,8
+82,F,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,8
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+69,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,5
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,5
+51,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,5
+51,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,5
+70,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+70,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+57,M,Clinical,B_STRPT_SLVR,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+57,M,Clinical,B_STRPT_SLVR,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+80,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+60,F,Outpatient,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),10,High,1,3
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+29,M,ICU,B_CMPYL_JEJN,Other/Unknown,Young adult (18–40),Early (2002–06),3,Low,1,4
+78,M,Outpatient,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+78,M,Outpatient,B_MCRCCC,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+78,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+54,F,ICU,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+54,F,ICU,B_ACNTB,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,6
+57,F,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+57,F,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+82,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,8
+62,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+62,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+82,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,7
+74,F,Outpatient,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),10,High,1,5
+74,F,Outpatient,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),10,High,1,4
+29,M,ICU,B_STPHY_CONS,Gram-positive,Young adult (18–40),Early (2002–06),3,Low,1,6
+76,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+87,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,7
+87,F,Clinical,B_BCTRD_FRGL,Other/Unknown,Elderly (75+),Early (2002–06),9,High,0,2
+87,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,7
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+77,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+77,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+47,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,6
+88,M,Outpatient,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+56,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+77,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,0,2
+78,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+78,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+76,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,5
+76,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,5
+70,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+81,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+83,M,ICU,B_CRYNB,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,0,2
+83,M,ICU,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+83,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+72,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+73,F,ICU,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,6
+73,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,6
+51,M,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,6
+85,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+64,M,Outpatient,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+74,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+61,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,6
+60,F,ICU,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),7,High,1,3
+60,F,ICU,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),7,High,1,3
+62,M,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+62,M,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+51,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+74,M,ICU,B_STRPT_PYGN,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+74,M,ICU,B_STRPT_GRPA,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+74,M,ICU,B_STRPT_GRPA,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+87,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,0,2
+87,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,0,2
+63,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+63,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+62,M,ICU,B_ENTRC,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,0,1
+62,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+62,M,ICU,B_ENTRC,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,0,1
+62,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+74,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,6
+74,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,6
+62,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,6
+62,M,ICU,B_CRYNB,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,6
+62,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+65,F,Outpatient,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),10,High,1,4
+65,F,Outpatient,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),10,High,1,3
+65,F,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,0,2
+73,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,6
+73,M,ICU,B_HMPHL_PRNF,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+70,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+70,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+87,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+82,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+76,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+76,M,Clinical,B_STRPT_MITS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+76,M,Clinical,B_STRPT_MITS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+87,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,0,2
+87,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,0,2
+82,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+82,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+52,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,0,2
+52,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+71,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,6
+75,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),6,Moderate,1,4
+81,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+81,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+82,F,Outpatient,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),12,Critical,1,3
+62,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+63,F,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+81,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+81,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+65,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+90,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+65,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+78,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+69,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+69,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+65,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+65,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+52,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,5
+52,M,ICU,B_ENTRC_FCLS,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,6
+67,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+0,F,Clinical,B_STRPT_GRPB,Other/Unknown,,Early (2002–06),6,Moderate,1,4
+52,M,ICU,B_ENTRC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+52,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,5
+52,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,5
+52,M,ICU,B_ENTRC_FCLS,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,6
+78,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,7
+78,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,7
+68,F,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+68,F,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+91,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+70,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,7
+70,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,7
+70,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,7
+70,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,7
+49,M,ICU,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+49,M,ICU,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+72,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,0,2
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,5
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,5
+75,F,Clinical,B_PROTS_MRBL,Gram-negative,Older adult (60–75),Early (2002–06),14,Critical,1,6
+75,F,Clinical,B_PROTS_MRBL,Gram-negative,Older adult (60–75),Early (2002–06),14,Critical,1,6
+80,M,Clinical,B_ENTRC,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,0,2
+80,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+78,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+78,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+68,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,0,2
+59,M,Outpatient,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,5
+64,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+73,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+63,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+44,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,4
+52,M,ICU,B_ENTRC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+52,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,5
+52,M,ICU,B_ENTRC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+52,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,5
+67,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+68,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+68,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+87,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+87,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+87,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+87,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+90,M,Outpatient,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+77,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,5
+69,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+89,M,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+89,M,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+87,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+87,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+82,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+82,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+88,M,ICU,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+88,M,ICU,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+77,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+42,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+42,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+69,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+69,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+37,M,ICU,B_STPHY_EPDR,Gram-positive,Young adult (18–40),Early (2002–06),3,Low,1,7
+82,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+80,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+66,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+71,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+73,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+73,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+75,F,Clinical,B_STRPT_MITS,Other/Unknown,Older adult (60–75),Early (2002–06),9,High,1,3
+75,F,Clinical,B_STRPT,Other/Unknown,Older adult (60–75),Early (2002–06),9,High,1,3
+87,M,ICU,B_GEMLL_HMLY,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,0,2
+87,M,ICU,B_GEMLL_HMLY,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,0,2
+87,M,ICU,B_GEMLL_HMLY,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,0,2
+71,F,ICU,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,5
+71,F,ICU,B_STRPT_AGLC,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,5
+71,F,ICU,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,5
+70,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+58,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+79,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+79,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+69,M,Clinical,B_BCTRD_FRGL,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+69,M,Clinical,B_BCTRD_FRGL,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+75,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),9,High,0,2
+74,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+71,M,ICU,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+70,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+71,M,ICU,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+91,M,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,5
+52,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+63,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,6
+88,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+74,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+74,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+66,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+74,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,6
+74,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+73,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+73,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+80,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+68,M,Clinical,UNKNOWN,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,0,1
+68,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+32,M,ICU,B_STPHY_CONS,Gram-positive,Young adult (18–40),Early (2002–06),3,Low,0,2
+86,F,Clinical,B_STRPT_GRPA,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,4
+88,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,0,2
+76,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,7
+71,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,5
+87,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+87,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+72,F,Clinical,B_CTRBC_FRND,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,5
+72,F,Clinical,B_CTRBC_FRND,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,5
+44,M,Outpatient,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+41,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,5
+87,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+89,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+89,M,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,4
+64,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+64,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+80,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+80,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+70,F,Outpatient,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),10,High,1,3
+81,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+81,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+71,M,ICU,F_CANDD_ALBC,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,0,0
+75,M,ICU,F_CANDD_ALBC,Other/Unknown,Older adult (60–75),Early (2002–06),6,Moderate,0,0
+80,F,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),12,Critical,1,8
+70,M,ICU,B_BCTRD_FRGL,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+50,M,Outpatient,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+50,M,Outpatient,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+66,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,6
+66,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,6
+69,M,ICU,B_ENTRC_FACM,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+69,M,ICU,B_ENTRC_FACM,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+82,M,Clinical,UNKNOWN,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,0,1
+86,M,ICU,B_STRPT_GRPA,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+86,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+92,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+70,F,Clinical,B_KLBSL_OXYT,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,4
+70,F,Clinical,B_KLBSL_OXYT,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,4
+73,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+73,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+73,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+73,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+48,M,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+86,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,8
+79,M,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+59,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,0,2
+83,M,Outpatient,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,5
+83,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+37,F,Outpatient,B_MCRCCC,Other/Unknown,Young adult (18–40),Early (2002–06),9,High,1,4
+41,F,ICU,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,4
+41,F,ICU,B_STRPT_ANGN,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+41,F,ICU,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,4
+41,F,ICU,B_STRPT_ANGN,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+63,F,ICU,B_PSDMN_AERG,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,8
+63,F,ICU,B_PSDMN_AERG,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,8
+92,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+65,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,5
+64,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+69,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,5
+88,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+83,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+72,M,ICU,B_MRGNL_MRGN,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+72,M,ICU,B_MRGNL_MRGN,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+63,F,ICU,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,4
+63,F,ICU,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,5
+39,M,ICU,B_STPHY_CONS,Gram-positive,Young adult (18–40),Early (2002–06),3,Low,0,2
+53,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+53,M,ICU,B_STRPT_ORLS,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+53,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+53,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+86,M,ICU,B_STRPT_SLVR,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+86,M,ICU,B_CRYNB,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,4
+86,M,ICU,B_STRPT_SLVR,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+71,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+80,F,ICU,B_STNTR_MLTP,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,10
+80,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+80,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,7
+80,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+45,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,4
+83,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+83,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+83,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+88,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+88,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+88,M,ICU,B_PROTS_PNNR,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,8
+88,M,ICU,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,5
+88,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+79,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+88,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+50,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+50,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+45,F,ICU,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+45,F,ICU,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+59,M,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,7
+59,M,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,7
+59,M,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,7
+59,M,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,7
+75,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),9,High,1,3
+46,M,ICU,B_STRPT_GRPA,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+84,F,ICU,B_STRPT_DYSG,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+84,F,ICU,B_STRPT_DYSG,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+80,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+80,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+38,F,Outpatient,B_STPHY_CONS,Gram-positive,Young adult (18–40),Early (2002–06),9,High,0,2
+38,F,Outpatient,B_STPHY_CONS,Gram-positive,Young adult (18–40),Early (2002–06),9,High,0,2
+87,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+45,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+45,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+73,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+51,F,Clinical,B_STRPT_MITS,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+51,F,Clinical,B_STRPT_MITS,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+59,M,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,6
+59,M,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,6
+81,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+53,M,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,7
+53,M,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,7
+56,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+79,M,ICU,B_ENTRC,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+79,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+79,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,6
+69,M,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+69,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+80,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+68,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+68,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+75,M,Clinical,B_STRPT_MITS,Other/Unknown,Older adult (60–75),Early (2002–06),6,Moderate,1,4
+75,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),6,Moderate,0,2
+59,F,ICU,UNKNOWN,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+66,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+66,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+84,F,Clinical,B_STRPT_GRPB,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,4
+84,F,Clinical,B_STRPT_GRPB,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,4
+79,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,6
+82,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+84,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+49,F,Outpatient,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),9,High,1,3
+88,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+48,F,Clinical,B_STRPT_EQUI,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+48,F,Clinical,B_STRPT_EQUI,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+82,F,Clinical,B_CTRBC,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,5
+82,F,Clinical,B_CTRBC,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,5
+56,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,0,2
+56,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+44,M,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,5
+44,M,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,6
+44,M,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+44,M,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,5
+70,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+70,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+73,M,ICU,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+73,M,ICU,B_STRPT,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+82,F,ICU,B_ENTRC,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,5
+82,F,ICU,B_ENTRC,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,5
+82,F,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,7
+79,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+79,M,ICU,B_STRPT_MITS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,4
+76,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,7
+47,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,4
+47,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),11,Critical,1,4
+75,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Early (2002–06),6,Moderate,1,6
+59,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+83,F,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,4
+83,F,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,4
+64,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+64,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+87,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+40,M,Clinical,B_STPHY_CONS,Gram-positive,Young adult (18–40),Early (2002–06),3,Low,1,6
+40,M,Clinical,B_STPHY_CONS,Gram-positive,Young adult (18–40),Early (2002–06),3,Low,1,6
+78,F,ICU,B_HMPHL_INFL,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+39,F,Clinical,B_STRPT_PNMN,Gram-positive,Young adult (18–40),Early (2002–06),6,Moderate,1,4
+78,F,ICU,B_HMPHL_INFL,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+78,F,ICU,B_HMPHL_INFL,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+83,M,Clinical,B_ENTRC,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+83,M,Clinical,B_ENTRC,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+76,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+57,M,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,4
+57,M,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,4
+77,F,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),12,Critical,1,5
+71,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+56,M,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,4
+56,M,ICU,B_PANTO,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+56,M,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,4
+56,M,ICU,B_PANTO,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+73,M,ICU,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+76,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+76,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+73,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+73,M,ICU,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+73,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+81,F,Outpatient,B_STRPT_GRPG,Other/Unknown,Elderly (75+),Early (2002–06),12,Critical,1,4
+83,M,Outpatient,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+83,M,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+83,M,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+65,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+65,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+60,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),7,High,0,2
+83,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+83,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+85,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,6
+83,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+83,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+46,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+46,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+77,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+77,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+43,M,ICU,B_STRPT,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+43,M,ICU,B_STRPT_ORLS,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,3
+65,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+45,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+47,F,ICU,B_STRPT_DYSG,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+45,F,Clinical,B_ACNTB,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,7
+67,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+52,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+78,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+78,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+76,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+67,F,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+67,F,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+86,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+86,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+86,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+82,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+74,M,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,5
+74,M,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,5
+74,M,Outpatient,F_CANDD_ALBC,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,0,0
+48,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+64,F,Outpatient,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),10,High,1,3
+70,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+91,F,ICU,B_CRYNB,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+83,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+87,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+87,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+87,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,6
+87,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+87,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,6
+87,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+64,F,Clinical,B_PSDMN_AERG,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,8
+64,F,Clinical,B_PSDMN_AERG,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,8
+79,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+79,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+79,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+79,M,ICU,B_ENTRC,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+58,M,Clinical,B_STRPT_GRPG,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+64,F,ICU,F_CANDD_ALBC,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,0,0
+64,F,ICU,F_CANDD_ALBC,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,0,0
+60,M,Clinical,B_STRPT,Other/Unknown,Middle-aged (40–60),Early (2002–06),4,Moderate,1,3
+60,M,Clinical,B_STRPT_MITS,Other/Unknown,Middle-aged (40–60),Early (2002–06),4,Moderate,1,3
+60,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),7,High,1,4
+60,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),7,High,1,4
+81,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,6
+81,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,6
+77,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+73,F,Clinical,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,1,5
+68,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,5
+68,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,5
+88,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+88,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+88,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+83,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+57,M,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,6
+47,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+47,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+47,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,0,2
+73,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,6
+73,M,ICU,B_CRYNB,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+88,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,6
+71,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+71,M,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+71,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,4
+63,F,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,5
+89,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+85,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),9,High,0,2
+82,M,ICU,B_BCTRD_FRGL,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,0,2
+86,F,Clinical,B_STRPT_MTNS,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+73,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,5
+41,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,0,2
+80,F,ICU,B_SERRT_MRCS,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,7
+68,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,4
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+84,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+84,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+73,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+73,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,5
+73,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+50,F,Clinical,B_STRPT_ORLS,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+50,F,Clinical,B_STRPT_ORLS,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,1,4
+85,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+85,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,4
+77,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+77,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+59,F,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+59,F,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+74,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+78,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+78,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+78,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+78,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+77,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+77,M,Clinical,B_STRPT_EQNS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,3
+77,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+77,M,Clinical,B_STRPT_EQNS,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,1,4
+77,M,Clinical,UNKNOWN,Other/Unknown,Elderly (75+),Early (2002–06),6,Moderate,0,1
+31,F,Clinical,B_STRPT_EQUI,Other/Unknown,Young adult (18–40),Early (2002–06),6,Moderate,1,4
+31,F,Clinical,B_NESSR_SICC,Other/Unknown,Young adult (18–40),Early (2002–06),6,Moderate,1,5
+75,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),6,Moderate,1,3
+44,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+56,M,Outpatient,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,3
+84,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+84,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,3
+73,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+73,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,6
+73,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+65,F,Outpatient,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),10,High,0,2
+89,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+89,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+89,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+89,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,4
+56,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,7
+0,M,Clinical,B_STPHY_CONS,Gram-positive,,Early (2002–06),3,Low,1,4
+72,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+80,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+80,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,5
+80,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+80,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+80,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+80,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,5
+80,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+58,F,ICU,F_CANDD_ALBC,Other/Unknown,Middle-aged (40–60),Early (2002–06),6,Moderate,0,0
+83,M,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,5
+83,M,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,5
+88,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),11,Critical,1,5
+88,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,0,2
+72,F,ICU,B_SERRT_MRCS,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,7
+34,F,Clinical,B_STPHY_CONS,Gram-positive,Young adult (18–40),Early (2002–06),6,Moderate,0,2
+58,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),3,Low,1,4
+61,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+61,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+61,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+90,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+90,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+88,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+71,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,7
+76,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+76,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,5
+88,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+88,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+75,F,ICU,B_BCTRD_FRGL,Other/Unknown,Older adult (60–75),Early (2002–06),9,High,0,2
+86,F,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,4
+86,F,Clinical,B_STRPT_ORLS,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,3
+86,F,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Early (2002–06),9,High,1,4
+85,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),9,High,1,4
+67,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+67,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,5
+67,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,5
+67,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,5
+76,F,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),12,Critical,1,3
+80,F,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),17,Critical,1,4
+80,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,4
+72,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+68,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,6
+68,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),12,Critical,1,6
+67,F,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+67,F,ICU,B_BCTRD_FRGL,Other/Unknown,Older adult (60–75),Early (2002–06),7,High,0,2
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,3
+78,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Early (2002–06),6,Moderate,1,6
+69,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,0,2
+69,M,Clinical,B_STRPT_MITS,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+0,M,Clinical,B_STPHY_CONS,Gram-positive,,Early (2002–06),3,Low,1,3
+47,M,Outpatient,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+54,M,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+66,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,5
+41,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,4
+41,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,4
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,7
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,6
+88,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+88,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+74,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+74,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+83,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,6
+61,F,Clinical,B_ENTRC_FACM,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,1,6
+47,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+47,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+47,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+87,F,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),14,Critical,1,5
+81,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+81,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+75,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),6,Moderate,1,5
+47,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+66,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+73,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+79,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,6
+93,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,5
+93,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+87,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+83,M,ICU,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,5
+63,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+87,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,0,2
+87,M,ICU,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+87,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,7
+87,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,0,2
+71,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,6
+71,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,6
+85,F,Clinical,B_STRPT_GRPA,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+85,F,Clinical,B_STRPT_PYGN,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+80,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+80,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+64,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,4
+14,M,Clinical,B_STRPT_GRPA,Other/Unknown,Paediatric (<18),Mid (2007–11),0,Low,1,4
+93,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+93,M,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+93,M,Clinical,B_STRPT,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,4
+29,F,Clinical,B_STPHY_CONS,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,3
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+72,M,Outpatient,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+72,M,Outpatient,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+44,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,3
+44,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,3
+63,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,6
+91,F,Clinical,B_MRGNL_MRGN,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,7
+93,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+93,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+84,F,ICU,B_STRPT_GRDN,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+86,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+82,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+82,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+72,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+72,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+24,M,ICU,B_STRPT_PNMN,Gram-positive,Young adult (18–40),Mid (2007–11),0,Low,1,3
+24,M,ICU,B_STRPT_PNMN,Gram-positive,Young adult (18–40),Mid (2007–11),0,Low,1,3
+67,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,4
+67,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,4
+76,F,ICU,B_STRPT_MITS,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+40,F,Clinical,B_STRPT_PNMN,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,3
+73,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+69,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+86,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+86,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+81,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+81,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+93,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+93,M,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+93,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+74,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+74,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+74,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+62,M,Clinical,B_SLMNL_ENTR,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,6
+62,M,Clinical,B_SLMNL_ENTR,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,6
+80,M,Clinical,B_ENTRBC_CLOC,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+80,M,Clinical,B_ENTRBC_CLOC,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+67,F,ICU,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,1,5
+55,M,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,4
+55,M,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,4
+55,M,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,4
+77,M,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+56,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+75,F,Clinical,B_PSDMN_AERG,Gram-negative,Older adult (60–75),Mid (2007–11),11,Critical,1,8
+75,F,Clinical,B_PSDMN_AERG,Gram-negative,Older adult (60–75),Mid (2007–11),11,Critical,1,8
+63,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+83,F,ICU,B_STRPT_DYSG,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+83,F,ICU,B_STRPT_DYSG,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+74,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+74,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+61,M,Clinical,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,3
+61,M,Clinical,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,3
+77,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+81,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+93,M,Clinical,B_CRYNB,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,4
+93,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+57,M,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,5
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,6
+42,F,Clinical,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Mid (2007–11),3,Low,0,2
+72,F,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+56,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+71,M,ICU,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,3
+71,M,ICU,B_STRPT,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,4
+71,M,ICU,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,4
+58,M,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+72,M,Clinical,B_ENTRC_FACM,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,7
+72,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,4
+72,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+75,M,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),3,Low,1,3
+82,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,7
+82,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,7
+76,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+76,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,6
+66,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,4
+69,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,4
+72,M,Outpatient,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+72,M,Outpatient,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+72,M,Outpatient,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,5
+76,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+71,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,7
+85,M,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+85,M,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+53,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,0,2
+72,M,Clinical,UNKNOWN,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,1
+89,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+86,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+50,F,Outpatient,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),11,Critical,1,5
+50,F,Outpatient,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),11,Critical,1,5
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+71,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,4
+71,M,Clinical,B_ENTRC_AVIM,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,2
+71,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,4
+71,M,Clinical,B_ENTRC_AVIM,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,3
+64,M,Clinical,F_CANDD_TRPC,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,0
+63,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+39,F,Clinical,UNKNOWN,Other/Unknown,Young adult (18–40),Mid (2007–11),3,Low,1,3
+70,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,4
+87,F,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),14,Critical,1,5
+87,F,Outpatient,B_STRPT_ANGN,Other/Unknown,Elderly (75+),Mid (2007–11),9,High,1,3
+70,M,Clinical,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,5
+70,M,Clinical,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,5
+57,F,ICU,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Mid (2007–11),3,Low,1,3
+76,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+57,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+76,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+76,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+83,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+57,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,7
+57,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,7
+87,M,Clinical,B_HMPHL_INFL,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,3
+87,M,Clinical,B_HMPHL_INFL,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,3
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+68,M,Clinical,B_STRPT_MITS,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,4
+76,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+72,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,0,2
+83,M,Outpatient,B_STRPT_AGLC,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+83,M,Clinical,B_STRPT_GRPB,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,4
+83,M,Clinical,B_STRPT_AGLC,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,4
+85,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+65,M,Clinical,B_CRYNB,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,2
+43,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,5
+43,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,5
+55,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,5
+55,F,ICU,B_ENTRC_FCLS,Other/Unknown,Middle-aged (40–60),Mid (2007–11),3,Low,1,6
+94,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+58,F,Clinical,B_PSDMN_AERG,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,8
+58,F,Clinical,B_PSDMN_AERG,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,8
+65,M,Clinical,B_STRPT,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,4
+80,F,Outpatient,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),9,High,1,3
+80,F,Outpatient,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),9,High,1,3
+73,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+76,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+65,M,Clinical,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,3
+65,M,Clinical,B_EKNLL_CRRD,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,1
+30,M,Outpatient,B_STPHY_AURS,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,3
+30,M,Outpatient,B_STPHY_AURS,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,4
+30,M,Outpatient,B_STPHY_AURS,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,3
+30,M,Outpatient,B_STPHY_AURS,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,4
+69,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+30,M,Clinical,B_STPHY_AURS,Gram-positive,Young adult (18–40),Mid (2007–11),0,Low,1,3
+30,M,Clinical,B_STPHY_AURS,Gram-positive,Young adult (18–40),Mid (2007–11),0,Low,1,4
+30,M,Clinical,B_STPHY_AURS,Gram-positive,Young adult (18–40),Mid (2007–11),0,Low,1,3
+30,M,Clinical,B_STPHY_AURS,Gram-positive,Young adult (18–40),Mid (2007–11),0,Low,1,4
+88,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+20,F,Clinical,B_STPHY_CONS,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,0,2
+86,M,Clinical,B_STRPT_EQNS,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+86,M,Clinical,B_STRPT_EQNS,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+77,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,0,2
+79,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+76,F,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),14,Critical,1,5
+59,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+59,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+59,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+71,M,Outpatient,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+67,M,Clinical,B_STRPT_SLVR,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,4
+67,M,Clinical,B_STRPT_SLVR,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,4
+67,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+67,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+67,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,7
+72,M,Clinical,B_AERCC_URNQ,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,1
+72,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+72,M,Clinical,F_CANDD_ALBC,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,0
+76,F,Clinical,B_STRPT_EQNS,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+76,F,Clinical,B_STRPT_EQNS,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+43,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+43,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+43,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+43,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,6
+82,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+82,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+64,F,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+63,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,7
+78,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+71,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,5
+71,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,5
+83,M,Outpatient,UNKNOWN,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,0,1
+53,M,Clinical,B_STRPT_MTNS,Other/Unknown,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+43,F,Clinical,B_STNTR_MLTP,Other/Unknown,Middle-aged (40–60),Mid (2007–11),3,Low,1,10
+75,M,Clinical,B_BCTRD_FRGL,Other/Unknown,Older adult (60–75),Mid (2007–11),3,Low,0,2
+80,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+88,F,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),9,High,1,3
+88,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+71,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+82,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+67,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+85,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+86,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,5
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+72,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,6
+83,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+19,M,Outpatient,B_STPHY_EPDR,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,3
+19,M,Outpatient,B_STPHY_CONS,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,4
+19,M,Outpatient,B_STPHY_EPDR,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,1,3
+76,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+76,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+94,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+94,F,ICU,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+85,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+85,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+59,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+59,M,Clinical,UNKNOWN,Other/Unknown,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+78,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+50,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,4
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+82,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+94,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+83,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+61,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+61,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+47,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+47,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+90,F,Clinical,B_STRPT_GRPA,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+90,F,Clinical,B_STRPT_GRPA,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+90,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+69,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+69,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+69,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+68,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,7
+84,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+84,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+68,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+48,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,3
+95,M,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,6
+84,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+55,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,0,2
+77,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,9
+58,M,Clinical,B_ENTRC,Other/Unknown,Middle-aged (40–60),Mid (2007–11),0,Low,0,1
+85,M,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+70,M,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,0,2
+66,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,4
+66,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,4
+66,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,4
+66,M,Clinical,B_ENTRC,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,1
+88,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+56,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,5
+67,F,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,1,5
+67,F,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,1,5
+67,F,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,1,5
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+85,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+85,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+85,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+82,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+82,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+65,M,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+76,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+50,F,Clinical,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Mid (2007–11),3,Low,0,2
+83,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+67,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+67,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,6
+80,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,6
+80,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+82,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,4
+85,F,Clinical,B_ENTRBC_CLOC,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+85,F,Clinical,B_ENTRBC_CLOC,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+18,M,Clinical,B_STRPT_DYSG,Other/Unknown,Paediatric (<18),Mid (2007–11),0,Low,1,3
+18,M,Clinical,B_STRPT_DYSG,Other/Unknown,Paediatric (<18),Mid (2007–11),0,Low,1,3
+70,M,Clinical,UNKNOWN,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,2
+80,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+87,F,Clinical,B_STRPT_GRPC,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+65,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,4
+66,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,7
+66,M,ICU,B_ENTRC,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,2
+66,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,7
+88,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+58,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,4
+58,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,4
+87,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+87,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+67,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,6
+69,F,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),12,Critical,1,4
+69,F,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),12,Critical,1,4
+69,F,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),12,Critical,1,4
+52,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+80,M,ICU,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+80,M,ICU,B_PSDMN_AERG,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+87,M,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+80,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,4
+38,F,Clinical,B_STPHY_CONS,Gram-positive,Young adult (18–40),Mid (2007–11),3,Low,0,2
+85,F,ICU,B_STRPT_GRPA,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+85,F,ICU,B_STRPT_GRPA,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+69,M,Clinical,B_FSBCT,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,0,1
+90,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+90,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+90,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+73,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+73,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,4
+90,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,6
+90,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,6
+82,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+55,M,Clinical,UNKNOWN,Other/Unknown,Middle-aged (40–60),Mid (2007–11),0,Low,0,1
+66,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+66,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+74,M,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,4
+92,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,0,2
+57,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,0,2
+69,M,Clinical,B_MRGNL_MRGN,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,7
+72,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,5
+79,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+79,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+79,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+83,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+83,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,6
+33,M,Clinical,B_KLBSL_PNMN,Gram-negative,Young adult (18–40),Mid (2007–11),5,Moderate,1,4
+33,M,Clinical,B_ESCHR_COLI,Gram-negative,Young adult (18–40),Mid (2007–11),5,Moderate,1,4
+33,M,Clinical,B_KLBSL_PNMN,Gram-negative,Young adult (18–40),Mid (2007–11),5,Moderate,1,4
+89,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,6
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+89,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+62,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,4
+78,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+78,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+43,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+43,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+80,F,Clinical,B_STRPT_MITS,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+80,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+80,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+67,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,5
+67,M,Clinical,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,3
+67,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,5
+75,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),8,High,1,6
+75,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),8,High,1,6
+78,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,0,2
+74,F,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,6
+74,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+55,M,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,5
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+77,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,6
+77,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,6
+94,M,Clinical,B_BCTRD_FRGL,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,0,2
+87,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+87,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,0,2
+77,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,6
+79,M,Outpatient,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+84,M,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,4
+84,M,Clinical,B_STRPT_ANGN,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,3
+84,M,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,4
+84,M,Clinical,B_STRPT_ANGN,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,3
+83,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+52,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,3
+74,F,ICU,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,1,3
+73,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,5
+73,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,4
+64,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+64,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),8,High,1,5
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),8,High,1,5
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),8,High,1,5
+85,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+50,F,Outpatient,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),6,Moderate,1,5
+62,F,Outpatient,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),7,High,1,3
+62,F,Outpatient,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),7,High,1,3
+86,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+86,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+77,M,ICU,B_ENTRC,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,0,2
+77,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,7
+69,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,5
+69,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,5
+76,M,Clinical,UNKNOWN,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,0,2
+57,M,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,7
+59,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,5
+0,F,Clinical,B_STPHY_AURS,Gram-positive,,Mid (2007–11),3,Low,1,3
+76,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,6
+76,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+67,M,Outpatient,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+47,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+47,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+60,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Mid (2007–11),6,Moderate,1,6
+60,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Mid (2007–11),6,Moderate,1,6
+86,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+64,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,7
+57,F,ICU,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,5
+57,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,6
+69,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+69,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+71,F,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,1,5
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,8
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+90,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+75,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),11,Critical,1,5
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+90,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+90,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+90,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+74,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+74,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+90,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+59,M,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,1,3
+85,M,Clinical,B_STRPT_AGLC,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,4
+85,M,Clinical,B_STRPT_AGLC,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,4
+92,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,5
+86,M,Clinical,B_HMPHL_INFL,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,3
+75,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),3,Low,1,3
+75,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),3,Low,1,3
+71,F,Clinical,B_BCTRD_FRGL,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+79,F,Clinical,B_STRPT_DYSG,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+83,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,6
+83,M,ICU,F_CANDD,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,0,0
+83,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,6
+74,M,ICU,B_STRPT_GRPG,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,3
+69,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+73,M,Outpatient,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),4,Moderate,0,2
+76,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+76,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+71,M,Clinical,B_KLBSL_AERG,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,5
+74,M,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,7
+74,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,6
+83,F,ICU,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,9
+83,F,ICU,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,9
+73,M,Clinical,B_SLMNL_ENTR,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,6
+89,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+89,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+59,M,Clinical,B_PROTS_MRBL,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,6
+59,M,Clinical,B_PROTS_MRBL,Gram-negative,Middle-aged (40–60),Mid (2007–11),5,Moderate,1,6
+53,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+53,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+77,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+77,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+60,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),9,High,1,5
+60,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),9,High,1,5
+82,F,ICU,UNKNOWN,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,0,1
+82,F,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,6
+53,F,Clinical,B_STRPT_GRPB,Other/Unknown,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+53,F,Clinical,B_STRPT_AGLC,Other/Unknown,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+86,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+86,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),8,High,1,4
+75,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),6,Moderate,0,2
+77,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+35,F,ICU,B_NESSR_MNNG,Other/Unknown,Young adult (18–40),Mid (2007–11),3,Low,1,4
+68,F,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,5
+68,F,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,5
+84,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,4
+90,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,6
+90,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,6
+90,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,6
+79,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+58,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,6
+84,M,Clinical,B_STRPT_EQNS,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+84,M,Clinical,B_STRPT_EQNS,Other/Unknown,Elderly (75+),Mid (2007–11),3,Low,1,5
+72,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,5
+72,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,5
+75,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),3,Low,1,5
+75,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),3,Low,1,4
+57,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+57,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+57,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+57,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Mid (2007–11),8,High,1,4
+91,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+67,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,5
+67,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,5
+67,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,5
+67,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,5
+67,F,Clinical,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Mid (2007–11),4,Moderate,1,6
+60,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Mid (2007–11),4,Moderate,1,3
+90,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+90,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+77,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,4
+63,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+63,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,7
+87,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+60,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Mid (2007–11),4,Moderate,1,4
+75,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),6,Moderate,1,7
+69,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+69,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+76,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),11,Critical,1,5
+71,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+71,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+85,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+75,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),11,Critical,1,4
+75,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),11,Critical,1,4
+52,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,0,2
+52,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,0,2
+52,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Mid (2007–11),0,Low,0,2
+81,F,Clinical,B_STRPT_GRPB,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+81,F,Clinical,B_STRPT_GRPB,Other/Unknown,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+70,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+70,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,3
+87,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,3
+70,F,Outpatient,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),7,High,1,3
+70,F,Outpatient,B_STPHY_AURS,Gram-positive,Older adult (60–75),Mid (2007–11),7,High,1,3
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+70,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Mid (2007–11),6,Moderate,1,4
+72,F,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),12,Critical,1,4
+76,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,4
+0,M,Clinical,B_STPHY_CONS,Gram-positive,,Mid (2007–11),0,Low,1,3
+89,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+71,M,Clinical,B_STRPT,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,4
+71,M,Clinical,B_STRPT,Other/Unknown,Older adult (60–75),Mid (2007–11),1,Low,1,4
+70,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,0,2
+70,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,5
+70,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Mid (2007–11),1,Low,1,7
+73,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+73,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),9,High,1,4
+90,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,1,7
+86,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+86,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+86,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+86,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Mid (2007–11),6,Moderate,0,2
+77,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Mid (2007–11),3,Low,1,3
+89,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Mid (2007–11),8,High,1,4
+65,F,ICU,UNKNOWN,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+65,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+86,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+89,M,Outpatient,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+0,M,Clinical,B_STRPT_PNMN,Gram-positive,,Recent (2012–17),0,Low,1,3
+43,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+80,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,7
+80,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,5
+67,M,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+80,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,7
+90,M,Clinical,B_SERRT_MRCS,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+72,F,Clinical,B_STRPT_EQNS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+72,F,Clinical,B_STRPT_EQNS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+78,M,Clinical,B_STPHY_SCHL,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,8
+78,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,8
+71,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+71,M,Clinical,B_KLBSL_OXYT,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+71,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+88,F,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+88,F,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+70,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+70,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+94,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+77,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,6
+81,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+81,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+89,F,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),9,High,1,8
+73,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+73,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+85,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,8
+85,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+85,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,8
+85,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+66,M,ICU,B_AERCC_URNQ,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,3
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+81,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+79,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+79,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+41,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+72,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,4
+76,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,5
+63,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+63,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+79,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+83,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,7
+83,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+71,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+47,M,Clinical,B_ENTRBC_CLOC,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,5
+47,M,Clinical,B_ENTRBC_CLOC,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,5
+66,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+66,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+86,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+86,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+83,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,6
+43,M,Clinical,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,0,2
+77,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+77,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+79,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,6
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+84,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+71,M,Clinical,B_STRPT_ANGN,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,3
+63,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+63,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+74,F,Outpatient,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),7,High,1,6
+67,M,Outpatient,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,5
+67,M,Outpatient,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,5
+62,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,9
+63,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+69,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,4
+42,M,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+62,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,9
+81,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+65,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+57,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+57,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+65,F,ICU,B_ENTRC_FACM,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,7
+65,F,ICU,F_CANDD_GLBR,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,0,0
+75,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),6,Moderate,0,2
+75,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),6,Moderate,0,2
+92,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+71,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+89,F,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),9,High,1,8
+89,F,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),9,High,1,8
+89,F,Outpatient,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),9,High,1,8
+61,M,Clinical,B_PROTS_MRBL,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,6
+59,M,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,4
+65,F,ICU,F_CANDD_GLBR,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,0,0
+65,F,ICU,B_ENTRC,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,5
+90,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+90,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+55,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+55,F,Outpatient,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),6,Moderate,1,3
+47,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+47,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+47,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+47,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+75,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),11,Critical,1,5
+86,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,8
+86,F,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,8
+65,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+65,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+87,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+88,F,Clinical,B_STRPT_DYSG,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+78,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+78,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+70,M,ICU,B_CTRBC_FRND,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,8
+70,M,ICU,B_CTRBC_FRND,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,8
+73,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+73,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+43,M,Clinical,B_ACNTB,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,6
+68,F,Outpatient,B_STPHY_CPTS,Other/Unknown,Older adult (60–75),Recent (2012–17),7,High,1,3
+70,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,9
+70,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+74,M,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+79,M,Outpatient,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+79,F,ICU,B_HMPHL_INFL,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+67,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+67,F,Clinical,B_STRPT_GRPB,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+67,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+67,F,Clinical,B_STRPT_ORLS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+85,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+85,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+78,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,8
+63,F,ICU,B_BCTRD_FRGL,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+63,F,ICU,B_CRYNB,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+48,M,Clinical,B_STRPT_SLVR,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+48,M,Clinical,B_STRPT_PRSN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+83,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+90,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+57,M,Clinical,B_STRPT_DYSG,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+57,M,Clinical,B_STRPT_DYSG,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+84,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+84,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+66,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+66,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+66,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+66,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+84,F,Clinical,B_SNGMNS_PCMB,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,0,1
+53,F,Clinical,B_STRPT_SLVR,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+66,F,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+83,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+83,F,Clinical,B_ENTRC,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+83,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+83,F,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+83,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+83,F,Clinical,B_ENTRC,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+76,M,ICU,B_LISTR_MNCY,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,0,2
+72,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+81,F,Clinical,B_MRGNL_MRGN,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+57,F,Clinical,B_STRPT_GRPB,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+63,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+63,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+87,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,7
+75,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),3,Low,1,3
+75,M,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),3,Low,1,3
+75,M,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),3,Low,1,4
+77,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+60,F,Clinical,B_STRPT_GRPA,Other/Unknown,Middle-aged (40–60),Recent (2012–17),4,Moderate,1,3
+60,F,Clinical,B_STRPT_GRPA,Other/Unknown,Middle-aged (40–60),Recent (2012–17),4,Moderate,1,3
+88,M,ICU,B_STRPT_GRPB,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,4
+67,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+77,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+77,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+77,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+77,M,Clinical,B_LCNST,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,0,2
+81,F,Clinical,B_STRPT_GRPC,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+51,M,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,4
+51,M,ICU,B_PROTS_MRBL,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,7
+51,M,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,4
+51,M,ICU,B_PROTS_MRBL,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,7
+78,M,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,8
+78,M,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,8
+80,M,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+80,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+80,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+77,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+77,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+89,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+89,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+83,F,Clinical,B_STPHY_CPTS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+83,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+77,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,5
+60,M,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),1,Low,1,7
+66,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+74,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+74,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+81,M,Clinical,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,7
+81,M,Clinical,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,7
+82,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+76,M,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,5
+72,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+72,F,Clinical,B_LCTBC_DLBR_LCTS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+82,M,ICU,B_PSDMN_AERG,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,8
+82,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+75,M,ICU,B_STRPT_PYGN,Other/Unknown,Older adult (60–75),Recent (2012–17),3,Low,1,3
+75,M,ICU,B_STRPT_PYGN,Other/Unknown,Older adult (60–75),Recent (2012–17),3,Low,1,3
+81,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,9
+81,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,9
+46,F,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,8
+46,F,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,8
+85,M,Clinical,B_CTBCTR_ACNS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,0,2
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,5
+82,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+79,M,ICU,F_CANDD_GLBR,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,0,0
+88,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+88,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+76,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+50,F,Clinical,B_STRPT_PYGN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+50,F,Clinical,B_STRPT_PYGN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+88,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+80,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+46,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,0,2
+59,F,ICU,B_HAFNI_ALVE,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,6
+59,F,ICU,B_ENTRC_FCLS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,5
+83,M,ICU,B_GRNLC_ADCN,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,0,1
+52,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+59,F,Outpatient,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),6,Moderate,1,9
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+74,M,Outpatient,B_STRPT_EQUI,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,4
+76,M,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+76,M,Clinical,B_KLBSL_OXYT,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,4
+88,F,Clinical,B_STRPT_DYSG,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+67,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+78,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,7
+78,M,Clinical,B_CRYNB_TBRC,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,4
+75,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),6,Moderate,1,10
+70,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+51,F,Outpatient,B_STRPT_PRSN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),6,Moderate,1,3
+75,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),6,Moderate,1,10
+66,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+57,M,Outpatient,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+74,F,Clinical,B_PROTS_MRBL,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,7
+59,F,Clinical,B_HMPHL_INFL,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+77,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+82,F,Clinical,B_STRPT_SLVR,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+75,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),6,Moderate,1,10
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,5
+72,M,Clinical,B_CTRBC_KOSR,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+72,M,Clinical,B_CTRBC_KOSR,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+47,F,ICU,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+43,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,7
+74,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+74,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+74,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+74,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+83,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,5
+83,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,5
+50,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+50,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+79,F,Clinical,B_STPHY_COHN,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+79,F,Clinical,B_STPHY_COHN,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,6
+68,F,Clinical,B_STRPT_GRPC,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+81,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+67,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+64,M,Clinical,B_STRPT_SLVR,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,3
+44,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+44,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+64,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,4
+52,F,Clinical,B_STPHY_HMLY,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,5
+54,M,Clinical,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+54,M,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,4
+54,M,Clinical,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+62,M,Clinical,B_STRPT,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+62,M,Clinical,B_STRPT,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+83,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+83,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+83,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+83,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+54,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+60,F,Clinical,B_CRYNB,Other/Unknown,Middle-aged (40–60),Recent (2012–17),4,Moderate,0,2
+90,F,Outpatient,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),9,High,1,3
+90,F,Outpatient,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),9,High,0,2
+79,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+79,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+0,M,Outpatient,B_ESCHR_COLI,Gram-negative,,Recent (2012–17),8,High,1,5
+79,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+79,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+79,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+88,M,Outpatient,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+66,F,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,5
+66,F,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,5
+68,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+90,F,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),14,Critical,1,4
+85,M,ICU,B_SPHNGB_SPRT,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+85,M,ICU,B_STPHY_HMLY,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,6
+85,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,5
+72,F,ICU,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,9
+69,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+36,M,Outpatient,B_STPHY_EPDR,Gram-positive,Young adult (18–40),Recent (2012–17),3,Low,1,4
+36,M,Outpatient,B_STPHY_EPDR,Gram-positive,Young adult (18–40),Recent (2012–17),3,Low,1,3
+78,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,6
+78,M,ICU,B_MCRCCC_LUTS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+92,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+58,F,Clinical,B_PSDMN_AERG,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,8
+58,F,Clinical,B_PSDMN_AERG,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,8
+84,M,ICU,UNKNOWN,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,0,1
+58,F,Clinical,B_CTRBC_FRND,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,5
+58,F,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+90,F,Clinical,B_MRGNL_MRGN,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+80,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+76,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+76,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+80,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+69,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,6
+79,F,ICU,B_STRPT_SLVR,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+82,M,Clinical,B_STPHY_CPTS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+42,M,Outpatient,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+69,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+69,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+78,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,6
+82,M,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+82,M,Clinical,B_STPHY_CPTS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,4
+51,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+51,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,5
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,5
+79,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+92,F,ICU,B_STPHY_CPTS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+79,M,Clinical,B_SERRT_MRCS,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+84,M,Clinical,B_ENTRBC_CLOC,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+89,F,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),14,Critical,1,7
+65,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+65,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+77,M,ICU,B_STRPT_MITS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+78,M,ICU,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+78,M,ICU,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+78,M,ICU,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+65,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+83,M,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+82,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+82,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+82,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+78,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+48,F,ICU,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,7
+57,M,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,6
+70,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+69,M,Clinical,F_CANDD_GLBR,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,0,0
+69,M,Clinical,F_CANDD_GLBR,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,0,0
+81,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+22,F,Clinical,B_STPHY_EPDR,Gram-positive,Young adult (18–40),Recent (2012–17),3,Low,1,3
+60,F,ICU,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),4,Moderate,1,5
+60,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),4,Moderate,1,6
+60,F,Clinical,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),4,Moderate,1,3
+60,F,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),4,Moderate,1,3
+85,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+81,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+76,M,ICU,B_STPHY_HMLY,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,4
+66,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+66,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+59,F,ICU,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+79,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+86,F,ICU,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,9
+86,F,ICU,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,8
+79,F,ICU,B_PSDMN_AERG,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,8
+79,F,ICU,B_PSDMN_AERG,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,8
+79,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,9
+79,F,ICU,B_DRMBC_HMNS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+79,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+79,F,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+79,F,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+79,F,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+47,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+47,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,5
+47,F,Clinical,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+47,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,7
+81,M,Clinical,B_STPHY_HMLY,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,4
+81,M,Clinical,B_STPHY_HMLY,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,4
+65,F,Clinical,B_SERRT_MRCS,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,7
+84,F,Clinical,B_STPHY_CPTS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+84,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+84,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+86,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+88,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+88,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,6
+75,F,Outpatient,B_STPHY_CPTS,Other/Unknown,Older adult (60–75),Recent (2012–17),9,High,1,3
+75,F,Outpatient,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),9,High,0,2
+75,F,Outpatient,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),9,High,1,5
+53,F,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+82,M,Clinical,B_STPHY_SCHL,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,0,2
+82,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+79,M,Outpatient,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+62,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+62,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+64,M,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+64,M,ICU,B_STPHY_CPTS,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,3
+93,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,8
+93,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,8
+77,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+58,F,ICU,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+58,F,ICU,B_STPHY_HMLY,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+42,F,ICU,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+42,F,ICU,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+91,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+91,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+47,F,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+47,F,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+83,F,ICU,B_STPHY_CPTS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+62,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+62,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+59,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+81,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+76,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+76,F,Outpatient,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),14,Critical,1,4
+87,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+87,M,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+62,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+62,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+48,F,Clinical,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+80,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+80,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+74,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+68,M,ICU,B_STRPT_PYGN,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,3
+68,M,ICU,B_STRPT_PYGN,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,3
+56,M,ICU,B_KLBSL_OXYT,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,4
+68,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,8
+81,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+81,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+56,M,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,9
+56,M,ICU,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,10
+89,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+89,F,Clinical,B_STRPT_PNMN,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+52,M,Clinical,B_STPHY_WRNR,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+52,M,Clinical,B_STPHY_WRNR,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+54,F,Outpatient,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),6,Moderate,1,4
+47,M,Clinical,B_ENTRC_FACM,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,7
+47,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,4
+47,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,4
+47,M,Clinical,B_ENTRC_FACM,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,7
+58,M,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+47,M,Clinical,B_KLBSL_PNMN,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,5
+47,M,Clinical,B_ENTRC_FACM,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,7
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,5
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,5
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,5
+83,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,6
+65,M,Clinical,B_SERRT_MRCS,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,7
+83,F,ICU,B_STPHY_CPTS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+83,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+77,M,ICU,B_MCRCCC,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+77,M,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+83,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,8
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,8
+66,F,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+82,M,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+67,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+67,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+38,M,ICU,B_STPHY_EPDR,Gram-positive,Young adult (18–40),Recent (2012–17),0,Low,1,4
+87,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+46,F,ICU,B_STRPT_DYSG,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+83,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+83,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,8
+83,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,8
+83,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+83,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+83,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+83,M,Clinical,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,7
+83,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,8
+83,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+83,M,Clinical,B_PSDMN_AERG,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,8
+60,M,Clinical,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),1,Low,1,3
+87,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,8
+50,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+50,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+68,M,Clinical,B_KLBSL_AERG,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,5
+68,M,Clinical,B_KLBSL_AERG,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,5
+97,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+97,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+81,F,ICU,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+65,M,Clinical,B_SERRT_MRCS,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,7
+65,M,Clinical,B_SERRT_MRCS,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,7
+65,M,Clinical,B_SERRT_MRCS,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,7
+65,M,Clinical,B_SERRT_MRCS,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,7
+65,M,Clinical,B_SERRT_MRCS,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,7
+58,F,Clinical,B_STRPT_PYGN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+91,F,ICU,B_SERRT_MRCS,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,7
+66,F,ICU,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+66,F,ICU,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+53,M,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),5,Moderate,1,4
+66,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+66,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+66,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+74,M,ICU,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,0,2
+81,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+80,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+80,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+80,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+70,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+70,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+81,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+81,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+70,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+70,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+70,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+83,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+44,F,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+71,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,6
+68,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+52,F,Clinical,B_STRPT_PYGN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+51,M,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,9
+51,M,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,9
+87,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,9
+74,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,4
+71,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+77,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+44,F,Clinical,B_STRPT_AGLC,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,5
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+82,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+82,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+0,F,Clinical,B_ESCHR_COLI,Gram-negative,,Recent (2012–17),8,High,1,4
+75,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),11,Critical,1,4
+75,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),11,Critical,1,4
+75,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),11,Critical,1,4
+85,F,Clinical,B_STRPT_PYGN,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+85,F,Clinical,B_STRPT_PYGN,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+55,M,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,0,2
+86,M,ICU,B_PROTS_VLGR,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,8
+86,M,ICU,B_PROTS_VLGR,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,8
+55,M,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,0,2
+80,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+80,M,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,8
+77,M,Outpatient,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+77,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+77,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+53,M,ICU,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,5
+53,M,ICU,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,5
+68,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+68,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+68,M,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+68,M,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+53,M,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,5
+53,M,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+70,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+70,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+72,M,Clinical,B_STPHY_HMLY,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,9
+57,F,ICU,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+78,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+78,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+86,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+86,M,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+62,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+62,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+62,F,ICU,F_CANDD_TRPC,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,0,0
+84,F,Clinical,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,10
+59,F,Clinical,B_STRPT_DYSG,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+73,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+73,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+62,F,ICU,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,5
+37,M,ICU,B_STPHY_HMNS,Gram-positive,Young adult (18–40),Recent (2012–17),0,Low,1,5
+84,M,Clinical,B_STPHY_CONS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+86,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+86,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,8
+86,F,ICU,B_ENTRC_CSSL,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,6
+86,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+63,M,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,4
+63,M,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,4
+70,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,7
+70,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,7
+88,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+88,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+74,M,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+93,F,ICU,B_STRPT_AGLC,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+93,F,ICU,B_STRPT_AGLC,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,5
+74,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,0,2
+74,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,0,2
+74,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,0,2
+74,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+76,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+76,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+74,M,ICU,B_STPHY_CPTS,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,5
+74,M,ICU,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+81,M,ICU,UNKNOWN,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,0,2
+57,M,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+38,F,Clinical,B_STRPT_PYGN,Other/Unknown,Young adult (18–40),Recent (2012–17),3,Low,1,3
+38,F,Clinical,B_STRPT_PYGN,Other/Unknown,Young adult (18–40),Recent (2012–17),3,Low,1,3
+83,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+83,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+79,M,ICU,B_STRPT_PYGN,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+79,M,ICU,B_STRPT_PYGN,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+92,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+80,M,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,8
+62,F,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,8
+51,F,ICU,B_BCTRD_FRGL,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+68,F,ICU,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,5
+68,F,ICU,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,5
+72,F,ICU,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,6
+75,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,4
+90,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+90,F,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,5
+39,F,Clinical,B_KLBSL_PNMN,Gram-negative,Young adult (18–40),Recent (2012–17),8,High,1,4
+61,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,4
+46,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+46,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+46,F,Clinical,B_STPHY_AURS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,0,2
+79,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,8
+79,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,8
+61,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+61,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,5
+48,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+75,F,ICU,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+83,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+83,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+68,F,Clinical,B_ACNTB_BMNN,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,7
+83,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,5
+87,F,Clinical,B_MCRCCC_LUTS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+68,M,Clinical,B_PANTO_AGGL,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+68,M,Clinical,B_PANTO_AGGL,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+75,M,Clinical,B_MCRCCC_LUTS,Other/Unknown,Older adult (60–75),Recent (2012–17),3,Low,1,3
+75,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),11,Critical,1,4
+75,F,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),11,Critical,1,4
+81,F,Clinical,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+80,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+80,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+80,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+80,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,3
+75,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,4
+75,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,4
+75,M,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,4
+68,M,ICU,B_VLLNL_PRVL,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,3
+68,M,ICU,B_SCHAL_ODNT,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,0,2
+79,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+61,M,ICU,B_STPHY_LGDN,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,0,2
+61,M,ICU,B_STPHY_LGDN,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,0,2
+79,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+79,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+79,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+79,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+79,M,Clinical,B_ENTRC_FCLS,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,5
+72,F,ICU,B_STRPT_INFN,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+66,F,ICU,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+66,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+66,F,ICU,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+66,F,ICU,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,4
+88,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+88,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+88,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+88,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+88,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,6
+88,M,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,7
+88,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+88,M,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,7
+83,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+60,M,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),6,Moderate,1,4
+86,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+86,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+86,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+86,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+86,F,ICU,B_CRYNB_STRT,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+86,F,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+86,F,ICU,B_CRYNB_STRT,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+86,F,Clinical,B_CRYNB_STRT,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+86,F,Clinical,B_CRYNB_STRT,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+86,F,Clinical,B_CRYNB_STRT,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+86,F,Clinical,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+81,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+81,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+51,F,Clinical,B_GLBCT_SNGN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,0,1
+58,F,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,6
+58,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,5
+58,F,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+58,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,4
+88,M,ICU,B_ENTRC_FACM,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,7
+78,M,Clinical,B_STRPT_AGLC,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,3
+68,F,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+68,F,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,3
+61,M,ICU,B_STPHY_WRNR,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+61,M,ICU,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Recent (2012–17),1,Low,1,3
+70,F,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,4
+56,M,ICU,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+87,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+87,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+87,M,ICU,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
+75,M,Clinical,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),3,Low,1,7
+56,M,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,8
+64,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,4
+64,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+47,F,Clinical,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+92,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+72,M,Clinical,B_STRPT_AGLC,Other/Unknown,Older adult (60–75),Recent (2012–17),1,Low,1,4
+73,F,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+73,F,Clinical,B_KLBSL_PNMN,Gram-negative,Older adult (60–75),Recent (2012–17),9,High,1,6
+76,M,ICU,B_STPHY_AURS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,0,2
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,4
+75,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Recent (2012–17),8,High,1,4
+75,F,Clinical,B_ENTRC_FCLS,Other/Unknown,Older adult (60–75),Recent (2012–17),6,Moderate,1,5
+80,F,ICU,B_PSDSC_VLNR,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,4
+80,F,ICU,B_PNBCL_DURS,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,6
+80,F,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,0,2
+85,M,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,7
+90,F,ICU,B_CRYNB_STRT,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,8
+90,F,ICU,UNKNOWN,Other/Unknown,Elderly (75+),Recent (2012–17),6,Moderate,1,7
+81,M,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,4
+81,M,ICU,B_STPHY_EPDR,Gram-positive,Elderly (75+),Recent (2012–17),3,Low,1,3
+86,F,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+59,M,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Recent (2012–17),0,Low,1,3
+79,F,ICU,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Recent (2012–17),11,Critical,1,4
+56,M,ICU,B_ACNTB_BMNN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,7
+56,M,ICU,B_ACNTB_BMNN,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,7
+56,M,ICU,B_ENTRC_FCLS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),0,Low,1,5
+80,M,ICU,B_CTRBC_KOSR,Other/Unknown,Elderly (75+),Recent (2012–17),3,Low,1,4
+64,F,ICU,B_STRPT_SLVR,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,4
+64,F,ICU,B_STRPT_PRSN,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,1,4
+64,F,ICU,B_ROTHI_MCLG,Other/Unknown,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+64,F,ICU,B_STPHY_EPDR,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,0,2
+0,F,ICU,B_STPHY_EPDR,Gram-positive,,Recent (2012–17),3,Low,1,7
+79,F,ICU,B_STPHY_HMNS,Gram-positive,Elderly (75+),Recent (2012–17),6,Moderate,1,6
+73,F,ICU,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,4
+73,F,Clinical,B_STRPT_PNMN,Gram-positive,Older adult (60–75),Recent (2012–17),4,Moderate,1,4
+53,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+53,F,ICU,B_ESCHR_COLI,Gram-negative,Middle-aged (40–60),Recent (2012–17),8,High,1,4
+55,F,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+55,F,Clinical,B_STPHY_EPDR,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+55,F,Clinical,B_STPHY_HMNS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+55,F,Clinical,B_STPHY_CPTS,Other/Unknown,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+71,M,Clinical,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+45,F,ICU,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Early (2002–06),6,Moderate,1,6
+69,F,Clinical,B_STPHY_HMNS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,4
+74,M,Clinical,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,7
+65,F,ICU,B_STPHY_CONS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+65,F,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),7,High,1,3
+78,F,Clinical,B_PROTS_MRBL,Gram-negative,Elderly (75+),Early (2002–06),14,Critical,1,7
+52,M,ICU,B_ENTRC,Other/Unknown,Middle-aged (40–60),Early (2002–06),3,Low,0,2
+64,M,ICU,B_ENTRBC_CLOC,Other/Unknown,Older adult (60–75),Early (2002–06),4,Moderate,1,5
+73,M,Clinical,B_STPHY_AURS,Gram-positive,Older adult (60–75),Early (2002–06),4,Moderate,1,3
+59,M,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,7
+53,M,ICU,B_SERRT_MRCS,Gram-negative,Middle-aged (40–60),Early (2002–06),8,High,1,7
+70,M,ICU,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Early (2002–06),9,High,1,4
+60,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Early (2002–06),7,High,1,4
+47,F,Clinical,B_STRPT_PNMN,Gram-positive,Middle-aged (40–60),Mid (2007–11),3,Low,1,4
+69,F,Outpatient,B_ESCHR_COLI,Gram-negative,Older adult (60–75),Mid (2007–11),12,Critical,1,4
+41,F,Clinical,B_STPHY_CONS,Gram-positive,Middle-aged (40–60),Recent (2012–17),3,Low,1,3
+78,M,Clinical,B_ESCHR_COLI,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,7
+77,M,Clinical,B_KLBSL_PNMN,Gram-negative,Elderly (75+),Recent (2012–17),8,High,1,4
